@@ -1,0 +1,13 @@
+1.Kiểu boolean chỉ gồm 2 giá trị là True và False:
+    var a, b bool
+    a = True
+    b = 0 // Tương tự b = False
+Hoặc 
+    a:= true a được gán bằng true
+    b:= False b được gán bằng False
+
+2.Numeric
+    Các kiểu số nguyên trong Go là uint8, uint16, uint32, uint64, int8, int16, int32, int64. 
+    Các con số 8, 16, 32, 64 là số bít mà máy tính dùng để biểu diễn số nguyên đó. uint tức là unsigned int – là kiểu số nguyên không âm.
+    Các kiểu số thực trong Go là float32 và float64
+    Các kiểu số phức là complex64 và complex128
